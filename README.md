@@ -1,0 +1,4 @@
+unpaste
+=======
+
+A fast pastbin
